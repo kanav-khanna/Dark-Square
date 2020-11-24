@@ -3621,49 +3621,11 @@ flex-wrap: wrap;
 
 /* Footer Area css
 ============================================================================================ */
-.footer_widget_area {
-  background: url(../img/footer-bg.jpg) no-repeat scroll center center;
-  
-  padding: 130px 0px 115px 0px;
-}
-
-.container_footer {
-  width: 100vw;
-  padding: 0 8%;
-}
-
-.f_title {
-  padding-bottom: 45px;
-}
-
-.f_title h3 {
-  font-size: 16px;
-  color: #4b4b4b;
-
-  font-weight: 500;
-  letter-spacing: 1px;
-}
-
-
-.f_about_widget img {
-  
-  
-  padding-bottom: 55px;
-  width: 110px;
-}
-
-.f_about_widget p {
-  font-size: 12px;
-  line-height: 28px;
-  color: #4b4b4b;
-
-  /* font-weight: 500; */
-}
-
 .f_insta_widget ul {
   overflow: hidden;
   margin: -1px;
 }
+
 
 .f_insta_widget ul li {
   float: left;
@@ -3678,11 +3640,9 @@ flex-wrap: wrap;
 .f_insta_widget ul li a img {
   width: 100%;
 }
-
-.f_subs_widget {
+.f_subs_widget{
   margin-left: 3vw;
 }
-
 .f_subs_widget .input-group {
   display: block;
   padding: 0px;
@@ -3732,7 +3692,6 @@ flex-wrap: wrap;
 .f_subs_widget .input-group .input-group-btn .submit_btn {
   margin-left: 0px;
   color: #ffffff;
-  border-radius: 6px;
 }
 
 .f_subs_widget .input-group .input-group-btn .submit_btn:hover {
@@ -3775,51 +3734,42 @@ flex-wrap: wrap;
 .footer_copyright .float-sm-right ul li:hover a {
   color: #00a2ed;
 }
-
-.float-sm-left {
+.float-sm-left{
   margin-right: 70px;
 }
-
-.footer_container {
+.footer_container{
   padding: 0px 15px;
   margin-left: auto;
   margin-right: auto;
 }
-
-.bottom-input-group {
+.bottom-input-group{
   padding-left: 15px;
 }
-
-.footer_widget_inner {
+.footer_widget_inner{
   padding: 0px .9% 0 2.2%;
-  background:white;
+  background: #000000;
 }
 
-.footer_container {
+.footer_container{
   justify-content: center;
   align-items: center;
   display: flex;
 }
-
-.contact_form_cover {
+.contact_form_cover{
   padding: 0 7%;
   width: 50%;
 }
-
-.touch_area_forms {
+.touch_area_forms{
   display: flex;
 }
-
-.a_solution_card_body h2 {
+.a_solution_card_body h2{
   margin-bottom: 20px;
 }
-
-.service_heading {
+.service_heading{
   font-size: 20px ! important;
   /* color: #4b4b4b; !important; */
 }
-
-.service_heading span {
+.service_heading span{
   font-size: 20px ! important;
   color: #000000;
   font-weight: 600;
