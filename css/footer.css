@@ -1,6 +1,7 @@
 body {
     font-family:  Helvetica, sans-serif;
     margin-top: -10px;
+
  }
  .bg-grey {
     background:  rgb(228, 225, 225);
@@ -16,7 +17,7 @@ body {
  footer p, a {
 font-size: 13px;
 margin-left: -20px;
-
+   line-height: 3;
 }
 
 
@@ -40,9 +41,8 @@ font-size: 16px;
 margin-top:25px;
 }
 
-footer siteseal{
-
-   text-align: right;
+.form-footer input{
+   line-height: 3;
 }
 
 
@@ -81,6 +81,7 @@ bottom: -20px;
  }
 .form-footer input[type="text"] {
 border: none;
+
     
 border-radius: 300px 25 0 25px;
 outline: none;
@@ -96,7 +97,7 @@ padding-left: 10px;
 
 }
 .form-footer input{
-border-top: s;
+   line-height: 3;
 
 }
 

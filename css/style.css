@@ -2643,8 +2643,12 @@ flex-wrap: wrap;
 .subscriber-name #firstname,
 #lastname {
   width: 99%;
-  line-height: 3;
+  line-height: 2;
   background-color: #ffffff;
+  
+}
+.subscriber-name #firstname{
+  line-height: 2;
 }
 
 /* End Subscribe to newsletter Area css
